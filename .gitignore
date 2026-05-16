@@ -1,0 +1,14 @@
+. 
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+node_modules/
+.next/
+npm-debug.log
+research/data/
+research/results/*.csv
+.DS_Store
+Thumbs.db
